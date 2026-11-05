@@ -1,4 +1,4 @@
-PA #5 Joaquin Elizandro B. Januya
+PA #5 Nathan Josh Cacho
 Introduction to MATLAB Programming
 - In this activity, I worked with real and complex matrices and solved a system of four linear equations in MATLAB. I placed both Problem A and Problem B in one script, Januya PA5.m, as required in the instructions. At the beginning of the code, I used clc to clear the Command Window, clear to remove old variables, and format long g to display numerical results with more digits. I also separated the tasks using %% section headings so the script is easier to read and run.
 Problem A: Transpose Operations
